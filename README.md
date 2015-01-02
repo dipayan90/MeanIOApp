@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![Build Status](https://travis-ci.org/linnovate/mean.svg?branch=master)](https://travis-ci.org/linnovate/mean)
 [![Dependencies Status](https://david-dm.org/linnovate/mean.svg)](https://david-dm.org/linnovate/mean)
 [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
@@ -591,3 +592,9 @@ heroku config:set NODE_ENV=production
 ## License
 We belive that mean should be free and easy to integrate within your existing projects so we chose the [The MIT License](http://opensource.org/licenses/MIT)
 
+=======
+MeanIOApp
+=========
+
+This is a shared repository for our Mean IO app. 
+>>>>>>> 57cc77b8a2eee87b8bdd42e600303a6613a1cc6b
